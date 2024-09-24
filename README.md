@@ -1,4 +1,4 @@
-# Readme. DM file generator
+# README.MD file generator
 
 
 
@@ -17,11 +17,11 @@ In this project I want to be able to demonstrate a markdown README file using co
 
 ## Installation
 
-FS and inqurirer will be required to be installed via NPM.
+FS and inqurirer will be required to be installed via NPM. 
 
 ## Usage
 
-Install all packages required. Enter all the project details when prompted.
+The command to execute the require packages via the package.json file is "npm i" 
 
 ## License
 
@@ -40,4 +40,4 @@ Manual testing is required. Follow each prompt to generate the readme.md file an
 If you have any questions, please contact me:
 
 - GitHub: [BDBevan](https://github.com/BDBevan)
-- Email: [User@User.com](mailto:User@User.com)
+- Email: [User1@User1.com](mailto:User1@User1.com)
