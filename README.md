@@ -41,3 +41,12 @@ If you have any questions, please contact me:
 
 - GitHub: [BDBevan](https://github.com/BDBevan)
 - Email: [User1@User1.com](mailto:User1@User1.com)
+
+## Demo Video links and Screenshots
+
+![REAMDME_Gen](https://github.com/user-attachments/assets/8d8f1e75-3da3-4488-a093-5a71f8e88c78)
+
+#Screencastify demo video : 
+
+https://drive.google.com/file/d/1Bl3d9KEe9ImmT-oYwnmma10PuHJ0h04Q/view
+
