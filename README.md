@@ -1,4 +1,4 @@
-# My Project
+# Readme. DM file generator
 
 
 
@@ -21,7 +21,7 @@ FS and inqurirer will be required to be installed via NPM.
 
 ## Usage
 
-Install all packages required. Enter all the project details when prompted. 
+Install all packages required. Enter all the project details when prompted.
 
 ## License
 
@@ -29,15 +29,15 @@ This project is licensed under the None license.
 
 ## Contributing
 
-Align with the project Syntax. 
+Align with the project Syntax.
 
 ## Tests
 
-Manual testing is required. Follow each prompt to generate the readme.md file and then confirm the details are captured correctly. 
+Manual testing is required. Follow each prompt to generate the readme.md file and then confirm the details are captured correctly.
 
 ## Questions
 
 If you have any questions, please contact me:
 
-- GitHub: [Username.github](https://github.com/Username.github)
+- GitHub: [BDBevan](https://github.com/BDBevan)
 - Email: [User@User.com](mailto:User@User.com)
